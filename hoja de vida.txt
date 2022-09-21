@@ -1,0 +1,4 @@
+Mi nombre es Axel.
+Tengo 22 años. 
+El proximo curso que hare sera de Angular.
+Mi cafe Juan Valdez favorito es el de vainilla.
