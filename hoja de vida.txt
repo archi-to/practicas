@@ -1,4 +1,4 @@
 Mi nombre es Axel.
 Tengo 23 años. 
 El proximo curso que hare sera de Angular.
-Mi cafe Juan Valdez favorito es el de vainilla.
+Mi cafe Juan Valdez favorito es el de chocolate.
